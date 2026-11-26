@@ -1,4 +1,4 @@
-# gandb-pg
+# ganlib-pg
 
 PostgreSQL schema, migrations, and storage layer for tracking genetic algorithm populations and metrics. Part of the **ganlib** ecosystem
 
