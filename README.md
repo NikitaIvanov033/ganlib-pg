@@ -5,7 +5,7 @@ PostgreSQL schema, migrations, and storage layer for tracking genetic algorithm 
 ## 🌐 Ecosystem
 
 * **[ganlib-rs](https://github.com)** — High-performance genetic algorithm core written in Rust
-* **[gandb-pg](https://github.com)** — PostgreSQL database schema and storage layer *(this repository)*
+* **[ganlib-pg](https://github.com)** — PostgreSQL database schema and storage layer *(this repository)*
 * **[ganlib-py](https://github.com)** — Legacy Python prototype and analytics scripts *(Archived)*
 
 ## 📄 License
